@@ -29,7 +29,7 @@ https://github.com/LucasGab/Led-Controller
 https://github.com/lincolncpp/senha-controle-remoto
 - [Automação Residencial (Gabriel Souza, Rafael Tavares)](https://github.com/gsasouza/house-automation) <br />
 https://github.com/gsasouza/house-automation
-
+- Solo-Pong(Alan Vitor, Guilherme Tavares, Guilherme Jun) https://github.com/tavares-guilherme/solo-pong-arduino
 
 
 
